@@ -1,7 +1,6 @@
-### Hi there 👋
-### 🌱 I’m currently doing my Masters in Computer Science
+### Hi there
+### I’ve completed my Masters in Computer Science
 ### I am a learner
-### I also like learning and knowing about the Universe
 ### I read Philosophical and spiritual books as well
 
 <!--
