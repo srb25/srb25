@@ -1,8 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently doing my Masters in Computer Science
-### I am a learner
-### I also like learning and knowing about the Universe
-### I read Philosophical and spiritual books as well
+
 
 <!--
 **srb25/srb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
